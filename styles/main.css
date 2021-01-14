@@ -16,4 +16,5 @@
     padding: 1em;
     border: 2px solid blue;
     flex-basis: 25%;
+    border-radius: 1em;
 }
