@@ -1,4 +1,20 @@
 .face {
     border: 2px solid blue;
     padding: 1em;
+    margin: 1em;
+}
+
+.eyes {
+    display: flex;
+    justify-content: space-around;
+    margin: 1em;
+    padding: 1em;
+}
+
+.eye {
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid blue;
+    flex-basis: 25%;
+    border-radius: 1em;
 }
